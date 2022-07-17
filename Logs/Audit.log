@@ -1,0 +1,8 @@
+DEBUG:root:Starting API test 1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): reqres.in:443
+DEBUG:urllib3.connectionpool:https://reqres.in:443 "GET /api/users?page=2 HTTP/1.1" 200 None
+DEBUG:root:Completed API test 1
+DEBUG:root:Starting API test 2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): reqres.in:443
+DEBUG:urllib3.connectionpool:https://reqres.in:443 "GET /api/users?page=2 HTTP/1.1" 200 None
+DEBUG:root:Completed API test 2
